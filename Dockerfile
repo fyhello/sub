@@ -1,1 +1,1 @@
-FROM Wei Shaw/sub2api:latest
+FROM WeiShaw/sub2api:latest
